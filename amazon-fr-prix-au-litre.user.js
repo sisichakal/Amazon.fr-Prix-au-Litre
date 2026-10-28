@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Affiche le prix au litre des produits sur Amazon.fr
+// @updateURL    https://raw.githubusercontent.com/sisichakal/Amazon.fr-Prix-au-Litre/main/amazon-fr-prix-au-litre.user.js
+// @downloadURL  https://raw.githubusercontent.com/sisichakal/Amazon.fr-Prix-au-Litre/main/amazon-fr-prix-au-litre.user.js
 // @author       You
 // @match        https://www.amazon.fr/s*
 // @match        https://www.amazon.fr/*/s*
